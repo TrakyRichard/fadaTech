@@ -11,8 +11,8 @@
     color: rgb(255, 255, 255)!important;
 }
 
-input.largerCheckbox{ 
-
+.fill{
+    fill: aliceblue;
 }
 
 #formSignUp{
